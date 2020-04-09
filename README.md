@@ -1,7 +1,7 @@
 # Coursera_Google_Speciallization
 ## Crash course on python [Course 1 of 6 in the Google IT Automation with Python Specialization]
 
-To Access the Course: [click here](https://www.coursera.org/learn/python-crash-course/)
+**To Access the Course:** [click here](https://www.coursera.org/learn/python-crash-course/)
 
 It was a very interesting project.
 
