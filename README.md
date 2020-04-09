@@ -1,9 +1,11 @@
 # Coursera_Google_Speciallization
-# Crash course on python [Course 1 of 6 in the Google IT Automation with Python Specialization]
+## Crash course on python [Course 1 of 6 in the Google IT Automation with Python Specialization]
+
+To Access the Course: [click here](https://www.coursera.org/learn/python-crash-course/)
 
 It was a very interesting project.
 
-# About this Course
+## About this Course
 
 This course is designed to teach you the foundations in order to write simple programs in Python using the most common structures. 
 No previous exposure to programming is needed. By the end of this course, you'll understand the benefits of programming in IT roles; 
@@ -14,7 +16,7 @@ We'll start off by diving into the basics of writing a computer program. Along t
 concepts through interactive exercises and real-world 
 examples. You’ll quickly start to see how computers can perform a multitude of tasks — you just have to write code that tells them what to do.
 
-# Applied Learning Project
+## Applied Learning Project
 
 Learn how to program with Python with no previous knowledge of coding required and you’ll use Python to automate common system administration 
 tasks
